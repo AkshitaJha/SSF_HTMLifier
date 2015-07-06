@@ -1,0 +1,2 @@
+<Sentence id="1"><chunkNode type="NP" phrase="aXNha2U= YkF4YQ== " id="d61f050d" ><node id="1_0" lex="aXNha2U=" type="PRP" attr_agr_num="pl" attr_agr_cas="d" attr_agr_gen="m" attr_af="yaha,pn,any,sg,3,o,kA,kA" /><node id="1_1" lex="YkF4YQ==" type="NST" attr_af="bAxa,adv,,,,,," /></chunkNode><chunkNode type="NP" phrase="bUV4QQ== bWVN " id="43cd749d" ><node id="1_2" lex="bUV4QQ==" type="NN" attr_af="mExA,n,m,sg,3,d,0,0" /><node id="1_3" lex="bWVN" type="PSP" attr_af="meM,psp,,,,,," /></chunkNode></Sentence>
+
